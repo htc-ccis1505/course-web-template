@@ -7,7 +7,6 @@
 # _data/textbooks.yml
 # _data/instructors.yml
 # _data/student_instructors.yml
-#
 ###############################################################################
 
 # Site settings - affect how your site is published
@@ -40,7 +39,6 @@ highlighter: rouge
 gems:
   - jekyll-feed
   - jekyll-gist
-  - gemoji
 exclude:
   - Gemfile
   - Gemfile.lock
