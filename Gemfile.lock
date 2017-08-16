@@ -78,7 +78,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.4.0)
-  jekyll-feed (~> 0.6)
+  jekyll-feed (~> 0.9)
   jekyll-gist
   jemoji
   minima (~> 2.0)
