@@ -4,11 +4,15 @@ summary: "An introduction to the technique of Pair Programming."
 ---
 
 # {{ page.title }}
-In this course, we will be using a technique called pair programming. Pair programming is the practice of writing code, programming, in pairs instead of individually. Much like you would have a lab partner in a science class, in our programming labs, you will have a pair programming partner.   
 
 {% include alert.html type="danger"
-    content="We'll be doing pair programming, aka pairing, regularly for class lab assignments. Part of your lab grade will be based on your active participation with your pair during lab in class."
+    content="We will be pair programming, aka pairing, regularly for class lab assignments. Part of the lab grade will be based on active participation with your pair during lab in class."
 %}
+
+In this course, we will be using a technique called pair programming. Pair programming is the practice of writing code, in pairs instead of individually. Two people work at one computer to solve a problem together. Much like you would have a lab partner in a science class, you will have also have a pair programming partner for this class.   
+
+>Much like you would have a lab partner in a science class, you will have also have a pair programming partner for this class.
+
 
 ## How to Pair
 When writing code as a pair, one person acts as the __driver__ actively controlling the computer, while the other person acts as the __navigator__ watching, planning and directing. While the driver types the code for the program, the observer helps plan and catch errors.
@@ -91,18 +95,25 @@ Key team skills include:
 - asking clarifying questions to develop an idea or solution
 - identifying potential problems & offering suggestions for improvement
 
-We often here from employers on our advisory committee that they would take a candidate with stronger communication and people skills over someone who is stronger technically but has weaker soft skills.  Why?  They believe it is easier to train & strengthen the technical skills on the job.
+Employers on our advisory committee often say that they would take a candidate with weaker technically and excellent communication and people skills over a candidate who is stronger technically but has weaker soft skills.  Why?  They believe it is easier to train & strengthen the technical skills on the job.
+
+>Employers on our advisory committee often say that they would take a candidate with weaker technically and excellent communication and people skills over a candidate who is stronger technically but has weaker soft skills.
+
 
 ### Professionals Pair Program
 Pair programming itself is a job skill. Many IT professionals use pair-programming as a regular part of their job. While this is practiced differently in various organizations and teams, it has grown in popularity in recent years alongside the adoption of Agile Development.  Pair Programming is a recommended (Agile Development)[https://en.wikipedia.org/wiki/Pair_programming] practice.
 
 {% include youtube-16x9.html id="5ySLQ5_cQ34" caption="Thanks to (codr.tv)[https://www.youtube.com/channel/UCSFoiAtgzOyuOQHVO2F19Qw] for this video!" %}
 
+
+
 ## Collaboration and Academic Honesty
 An important consideration when working as a pair or a team is giving appropriate credit for work. If the work is not done individually, this should be clearly indicated when submitting the assignment. Make sure that everyone's names are included on the submitted assignment.
 
 Labs are required to be completed as a pair, or as a small group of 3 when we have an odd number of students. However each person needs to keep a copy of the code and submit it (when required) to the assignment drop box to be graded. When submitting the assignment code, add a comment to indicate the name(s) of all contributors. If this is not done, points may be deducted for lack of team work & lab participation.
 
-Other assignments will indicate that they are to be completed individually. When this is true, no two assignments should look exactly the same or even be significantly similar. For these assignments, it is OK to *discuss* the work with other students, but it is __not OK__ to just add or copy their code or parts of their code into your assignment.
+Other assignments will indicate that they are to be completed individually. When this is true, no two assignments should look exactly the same or even be significantly similar. For individual assignments, it is OK to __*discuss*__ the work with other students, but it is __*not OK*__ to just add or copy their code or parts of their code into your assignment.
+
+> For individual assignments, it is OK to __*discuss*__ the work with other students, but it is __*not OK*__ to just add or copy their code or parts of their code into your assignment.
 
 Please make sure that you read and understand the academic honesty policy laid out in the course syllabus. If you have any questions on how this policy applies to your assignments, be sure to ask. Ignorance is not an excuse, and students who do not comply with the academic honesty policy will not receive credit for the work and may be reported to the college administration.
